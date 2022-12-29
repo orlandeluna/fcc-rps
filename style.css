@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #25272E;
+}
+
+header {
+  background: white;
+  padding: 20px;
+}
+
+header > h1 {
+  color: #25272E;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.choice > img {
+  width: 70px;
+}
+
+.score-board {
+  border: 3px solid white;
+  border-radius: 5px;
+  width: 200px;
+  margin: 20px auto;
+  padding: 15px 20px;
+  color: white;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
