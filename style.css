@@ -20,6 +20,8 @@ header > h1 {
   
 }
 
+
+
 .choice > img {
   width: 70px;
 }
@@ -93,4 +95,19 @@ header > h1 {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   font-size: 20px;
+}
+
+.green-glow {
+  border: 4px solid #4dcc7d;
+  box-shadow: 0 0 10px #31b43a;
+}
+
+.red-glow {
+  border: 4px solid #fc121d;
+  box-shadow: 0 0 10px #d01115;
+}
+
+.purple-glow {
+  border: 4px solid #8b12fc;
+  box-shadow: 0 0 10px #5b0a91;
 }
